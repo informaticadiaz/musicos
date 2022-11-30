@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/musicos/static/css/main.e4420f05.css",
+    "main.js": "/musicos/static/js/main.01d55963.js",
+    "static/js/787.5ef3d4cc.chunk.js": "/musicos/static/js/787.5ef3d4cc.chunk.js",
+    "static/media/artist.jpg": "/musicos/static/media/artist.1162a757da452033436f.jpg",
+    "static/media/background.jpg": "/musicos/static/media/background.8b16878b58cd04fe945c.jpg",
+    "static/media/track.png": "/musicos/static/media/track.bddb5792891bf59741a8.png",
+    "index.html": "/musicos/index.html",
+    "main.e4420f05.css.map": "/musicos/static/css/main.e4420f05.css.map",
+    "main.01d55963.js.map": "/musicos/static/js/main.01d55963.js.map",
+    "787.5ef3d4cc.chunk.js.map": "/musicos/static/js/787.5ef3d4cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4420f05.css",
+    "static/js/main.01d55963.js"
+  ]
+}
